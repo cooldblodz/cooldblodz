@@ -15,6 +15,6 @@ Welcome to my Github repository! I'm Angela, a passionate blockchain enthusiast 
 ## Connect with Me
 
 Let's connect and share ideas!
-- Twitter: [YourTwitterHandle](https://twitter.com/coldbloodzz)
+## [Twitter](https://twitter.com/coldbloodzz)
 
 Feel free to reach out and collaborate on exciting projects! 🌟
